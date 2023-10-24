@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ranjeet",
+      "lastName": "Keshari",
+      "email": "rkeshari1990@gmail.com",
+      "mobile": "8987033032",
+      "salary": "65000"
+    },
+    {
+      "id": 2,
+      "firstName": "Mukesh",
+      "lastName": "Keshari",
+      "email": "mukesh123@gmail.com",
+      "mobile": "7903863430",
+      "salary": "60000"
+    },
+    {
+      "id": 3,
+      "firstName": "Deepak ",
+      "lastName": "Keshari",
+      "email": "deepal789@gmail.com",
+      "mobile": "9686701572",
+      "salary": "90000"
+    },
+    {
+      "id": 4,
+      "firstName": "Sanju",
+      "lastName": "Kumari",
+      "email": "sanju9632@gmail.com",
+      "mobile": "8963214598",
+      "salary": "55000"
+    },
+    {
+      "id": 5,
+      "firstName": "Deepnarayan",
+      "lastName": "Keshari",
+      "email": "deepkeshari874@gmail.com",
+      "mobile": "9386701572",
+      "salary": "30000"
+    },
+    {
+      "id": 6,
+      "firstName": "Binda",
+      "lastName": "Devi",
+      "email": "binda2154@gmail.com",
+      "mobile": "9304238923",
+      "salary": "56000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
